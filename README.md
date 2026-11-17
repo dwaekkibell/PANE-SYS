@@ -41,12 +41,10 @@ PANE-SYS/
 ├── logo.png                 # Logotipo institucional del sistema
 ├── .gitignore               # Archivos excluidos del control de versiones
 └── README.md                # Documentación del proyecto
+```
 
-
-🚀 Instalación y Ejecución (Modo Desarrollo)
-Clona este repositorio:
-
-Bash
+## 🚀 Instalación y Ejecución (Modo Desarrollo)
+* Clona este repositorio:
 git clone [https://github.com/dwaekkibell/PANE-SYS.git](https://github.com/dwaekkibell/PANE-SYS.git)
 Instala las dependencias necesarias:
 
@@ -58,3 +56,6 @@ Bash
 python main.py
 👥 Autor
 Proyecto desarrollado con fines académicos para la gestión y optimización de procesos comerciales.
+
+
+
