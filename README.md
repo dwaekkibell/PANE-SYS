@@ -44,18 +44,20 @@ PANE-SYS/
 ```
 
 ## 🚀 Instalación y Ejecución (Modo Desarrollo)
-* Clona este repositorio:
+1. Clona este repositorio:
+```Bash
 git clone [https://github.com/dwaekkibell/PANE-SYS.git](https://github.com/dwaekkibell/PANE-SYS.git)
-Instala las dependencias necesarias:
+```
 
-Bash
+2. Instala las dependencias necesarias:
+```Bash
 pip install customtkinter matplotlib reportlab supabase
-Ejecuta el sistema:
+```
 
-Bash
+3. Ejecuta el sistema:
+```Bash
 python main.py
-👥 Autor
+```
+
+## 👥 Autor
 Proyecto desarrollado con fines académicos para la gestión y optimización de procesos comerciales.
-
-
-
